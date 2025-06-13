@@ -1,0 +1,3 @@
+This is a simple text file.
+It is used to demonstrate the file integrity checker.
+If you change this content, the script will detect it.

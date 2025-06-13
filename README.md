@@ -21,3 +21,7 @@ The tool is easy to set up. The user only needs to specify the list of files the
 This kind of monitoring is especially useful for configuration files, log files, scripts, or any documents that must not be changed without proper authorization. Even developers and IT professionals can benefit from using this script to keep an eye on important files in their local or server environments. Although this project focuses on the basic concept of hashing and file comparison, the idea has broader applications in real-world cybersecurity tools and intrusion detection systems.
 
 Overall, building this file integrity checker was a valuable experience that strengthened both programming and security fundamentals. It involved thinking carefully about how changes can be tracked over time in a reliable and secure way. While the script is small, its usefulness lies in its ability to highlight how simple tools can support essential security tasks. It reflects the importance of attention to detail in cybersecurity and demonstrates how a basic concept like hashing can be turned into a working solution with real-world applications.
+
+output:
+
+![Image](https://github.com/user-attachments/assets/3f557b6b-174a-4704-a602-caf25277fd33)
